@@ -1,4 +1,7 @@
 # Circuit-QED
+Nathan K. Langford, Lecture Notes:
+https://arxiv.org/pdf/1310.1897.pdf
+
 Transmission Line Theory
 RCSJ model
 #Concepts
